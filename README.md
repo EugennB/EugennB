@@ -1,4 +1,4 @@
-![eu](https://github.com/EugennB/EugennB/assets/131410419/8faefe00-31ff-45ca-99b0-0940cf809f79)
+![eu](https://www.cheme.washington.edu/sites/cheme/files/undergrads/imgs/computing-header.jpg)
 
 
 # Eugen Brodner
