@@ -16,13 +16,17 @@ and initiative and the importance of working in a team and educating
 others.
 
 ### Contact:
-<ul> 📫 eugenbrodner@yahoo.com </ul>
+<ul>
+  
+  📫 eugenbrodner@yahoo.com </ul>
 
-<ul> 💻 [LinkedIn](https://linkedin.com/in/eugen-bdnr) </ul>
+<ul> 
+  
+  💻 [LinkedIn](https://linkedin.com/in/eugen-bdnr) </ul>
 
-<ul> 💻 [GitHub](https://github.com/EugennB) </ul>
-
-<ul> 💻 [HyperionDev](https://www.hyperiondev.com/portfolio/143487/) </ul>
+<ul> 
+  
+  💻 [HyperionDev](https://www.hyperiondev.com/portfolio/143487/) </ul>
 
 <ul> 🏠 London 🇬🇧 </ul>
 
