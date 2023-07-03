@@ -16,18 +16,17 @@ and initiative and the importance of working in a team and educating
 others.
 
 ### Contact:
-eugenbrodner@yahoo.com
+<ul> 📫 eugenbrodner@yahoo.com </ul>
 
-linkedin.com/in/eugen-bdnr
+<ul> 💻 [LinkedIn](https://linkedin.com/in/eugen-bdnr) </ul>
 
-github.com/EugennB
+<ul> 💻 [GitHub](https://github.com/EugennB) </ul>
 
-hyperiondev.com/portfolio/143487/
+<ul> 💻 [HyperionDev](https://www.hyperiondev.com/portfolio/143487/) </ul>
 
-London, UK
+<ul> 🏠 London 🇬🇧 </ul>
 
-
-### Education:
+### :man_student: Education:
 • **Data Science Bootcamp - HyperionDev**
 March - July 2023
 
@@ -37,45 +36,50 @@ September 2006 – June 2009
 ### Experience:
 • **Floor Manager - Rhubarb Hospitality**
 August 2022 – Present
+  <ul>
+    
+  _Managing the bar(s), organizing the team and shift throughout the day_
 
-Managing the bar(s), organizing the team and shift throughout the day
+  _Placing daily orders, adding stock transfers on our system_
 
-Placing daily orders, adding stock transfers on our system
+  _Doing rota_
 
-Doing rota
-
-Helping the team with service
+  _Helping the team with service_</ul>
 
 • **Photographer**
-2010 – Present
+2010 – Present 
 
-Interior design, architecture, portrait, fashion, events photography
-and post processing.
+ <ul>
+   
+_Interior design, architecture, portrait, fashion, events photography
+and post processing._ </ul>
 
 • **Supervisor - Rhubarb Hospitality**
 September 2019 – August 2022
+  
+<ul>
+  
+_Working behind the bar_
 
-Working behind the bar
+_Helping the team and manager with service_
 
-Helping the team and manager with service
+_Organizing the team_
 
-Organizing the team
-
-Training new staff.
+_Training new staff_ </ul>
 
 
 ### Technical skills:
 
-Python (NumPy, pandas)
+• **Python** (NumPy, pandas)
 
-Machine Learning
+• **Machine Learning**
 
-Data Visualisation (Matplotlib, Seaborn)
+• **Data Visualisation** (Matplotlib, Seaborn)
 
-Data Analysis
+• **Data Analysis**
 
-Natural Language Processing
+• **Natural Language Processing**
 
-Jupyter
+• **Jupyter**
 
-Spacy
+• **Spacy**
