@@ -1,5 +1,4 @@
-![eu](https://www.cheme.washington.edu/sites/cheme/files/undergrads/imgs/computing-header.jpg)
-
+![datascience-1024x396-1](https://github.com/EugennB/EugennB/assets/131410419/0d99e7a3-73c6-42b8-94ee-36157b90efce)
 
 # Eugen Brodner
 
